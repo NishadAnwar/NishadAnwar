@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Md Nishad Anwar</h1>
-<h3 align="center"><b>A passionate C++ developer from India</b></h3>
+<h3 align="center"><b>A passionate Web developer from India</b></h3>
 
 
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **a full stack web app project with C++ backend.**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript, React.js, .NET.**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, React.js.**
 
 - 📫 How to reach me **mohammednishadanwar@gmail.com**
 
