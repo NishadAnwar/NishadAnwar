@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **few indie projects.**
 
-- 👯 I’m looking to collaborate on **a full stack web app project with C++ backend.**
+- 👯 I’m looking to collaborate on **a full stack web app project.**
 
 - 💬 Ask me about **C++, HTML, CSS, Javascript, React.js.**
 
